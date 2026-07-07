@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-MD, currently serving as Public Health and Epidemiology resident @ University of Bologna
+MD, currently serving as Public Health and Preventive Medicine resident @ University of Bologna
 
 I'm mainly interested in:
 
