@@ -26,4 +26,4 @@ I'm mainly interested in:
 - epidemiology of communicable diseases
 
 
-I would like to professionally give a contribution in these disciplines, both in terms of scientific research and its practical implications, in the context of health services organization
+I would like to professionally give a contribution in these disciplines, both in terms of scientific research and its practical implications, in the context of health services' organization
