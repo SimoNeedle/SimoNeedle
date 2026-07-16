@@ -24,6 +24,7 @@ I'm mainly interested in:
 - organization of primary healthcare (PHC) services
 - One Health and Planetary Health approaches to global health
 - epidemiology of communicable diseases
+- medical geography: territories, proximity and communities
 
 
 I would like to professionally give a contribution in these disciplines, both in terms of scientific research and its practical implications, in the context of health services' organization
