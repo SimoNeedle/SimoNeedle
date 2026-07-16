@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-MD, currently serving as Public Health and Preventive Medicine resident @ University of Bologna
+MD, currently serving as Public Health and Preventive Medicine resident at the [University of Bologna](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/scuole-di-specializzazione/scuole-di-specializzazione-mediche-nuovo-ordinamento/igiene-e-medicina-preventiva)
 
 I'm mainly interested in:
+💧 environmental epidemiology and environmental justice
+✊ social epidemiology, social determinants of health and inequities
+🫂 organization of primary healthcare (PHC) services
+🦟 epidemiology of communicable diseases
+🗺️ medical geography: territories, proximity and communities
 
-- environmental epidemiology and environmental justice
-- social and proximity epidemiology, social determinants of health
-- organization of primary healthcare (PHC) services
-- One Health and Planetary Health approaches to global health
-- epidemiology of communicable diseases
-- medical geography: territories, proximity and communities
-
-
-I would like to professionally give a contribution in these disciplines, both in terms of scientific research and its practical implications, in the context of health services' organization
+I would like to professionally contribute to these fields through both scientific research and its practical translation, in the context of healthcare organization.
