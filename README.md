@@ -24,7 +24,7 @@ I'm mainly interested in:
 - 🫂 social epidemiology, social determinants of health and inequities
 - 💉 organization of primary healthcare (PHC) services
 - 🦟 epidemiology of communicable diseases
-- 🗺️ medical geography: territories, proximity and communities
+- 🗺️ geospatial analysis for public health: territories, proximity and communities
 
 
 
