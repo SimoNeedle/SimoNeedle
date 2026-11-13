@@ -43,7 +43,7 @@ I would like to professionally contribute to these fields through both scientifi
 </table>
 <br><br>
 
-_Powered by blast beats, questionable dad jokes, unsolicited nerdy anecdotes, eco-anxiety, spare shampoo and tons of coffee to keep feeling that beat._
+_Powered by blast beats, questionable dad jokes, unsolicited nerdy anecdotes, eco-anxiety, and tons of coffee to keep feeling that beat._
 
 
 
