@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+<tr>
+<td width="70%"  style="border: none;" valign="top">
+
+  ### Who am I?
 
 MD, currently serving as _Public Health and Preventive Medicine_ resident at the [University of Bologna](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/scuole-di-specializzazione/scuole-di-specializzazione-mediche-nuovo-ordinamento/igiene-e-medicina-preventiva)<br>
 Currently enrolled in the 2nd Level Master in _Geospatial Data Science for Human, Animal, and Environmental Health (GEO4H)_ at [University of Padova](https://uel.unipd.it/master-e-corsi/geo4h-geospatial-data-science-per-la-salute-delluomo-degli-animali-e-dellambiente/)
@@ -29,6 +34,16 @@ I'm mainly interested in:
 
 <br>
 I would like to professionally contribute to these fields through both scientific research and its practical translation, in the context of healthcare organization.
-<br><br><br>
 
-Powered by blast beats, questionable dad jokes, unsolicited nerdy anecdotes, eco-anxiety, and tons of coffee to feel the beat.
+</td>
+<td width="30%"  style="border: none;" valign="top">
+<img src="me.jpg" alt="me" width="100%">
+
+</td>
+</tr>
+</table>
+<br><br>
+_Powered by blast beats, questionable dad jokes, unsolicited nerdy anecdotes, eco-anxiety, and tons of coffee to keep feeling that beat._
+
+
+
