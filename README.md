@@ -36,7 +36,7 @@ I would like to professionally contribute to these fields through both scientifi
 
 </td>
 <td width="30%"  style="border: none;" valign="top">
-<img src="me.jpg" alt="me" width="100%">
+<a href="#"><img src="me.jpg" alt="me" width="100%"></a>
 
 </td>
 </tr>
