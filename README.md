@@ -25,11 +25,11 @@ Currently enrolled in the 2nd Level Master in _Geospatial Data Science for Human
 <br><br>
 I'm mainly interested in:
 
-💧  environmental epidemiology and environmental justice <br>
-🫂  social epidemiology, social determinants of health and inequities <br>
-💉  organization of primary healthcare (PHC) services <br>
-🦟  epidemiology of communicable diseases <br>
-🗺️  geospatial analysis for public health: territories, proximity and communities <br>
+💧  Environmental epidemiology and environmental justice <br>
+🫂  Social epidemiology, social determinants of health and inequities <br>
+💉  Organization of primary healthcare (PHC) services <br>
+🦟  Epidemiology of communicable diseases <br>
+🗺️  Geospatial analysis for public health: territories, proximity and communities <br>
 
 <br>
 I would like to professionally contribute to these fields through both scientific research and its practical translation, in the context of healthcare organization.
