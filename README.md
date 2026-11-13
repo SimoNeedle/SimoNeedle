@@ -31,7 +31,6 @@ I'm mainly interested in:
 🦟  epidemiology of communicable diseases <br>
 🗺️  geospatial analysis for public health: territories, proximity and communities <br>
 
-
 <br>
 I would like to professionally contribute to these fields through both scientific research and its practical translation, in the context of healthcare organization.
 
@@ -43,6 +42,7 @@ I would like to professionally contribute to these fields through both scientifi
 </tr>
 </table>
 <br><br>
+
 _Powered by blast beats, questionable dad jokes, unsolicited nerdy anecdotes, eco-anxiety, and tons of coffee to keep feeling that beat._
 
 
