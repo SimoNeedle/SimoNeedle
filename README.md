@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-MD, currently serving as Public Health and Preventive Medicine resident at the [University of Bologna](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/scuole-di-specializzazione/scuole-di-specializzazione-mediche-nuovo-ordinamento/igiene-e-medicina-preventiva)
-
-
+MD, currently serving as _Public Health and Preventive Medicine_ resident at the [University of Bologna](https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/scuole-di-specializzazione/scuole-di-specializzazione-mediche-nuovo-ordinamento/igiene-e-medicina-preventiva)<br>
+Currently enrolled in the 2nd Level Master in _Geospatial Data Science for Human, Animal, and Environmental Health (GEO4H)_ at [University of Padova](https://uel.unipd.it/master-e-corsi/geo4h-geospatial-data-science-per-la-salute-delluomo-degli-animali-e-dellambiente/)
+<br><br>
 I'm mainly interested in:
 
-- 💧 environmental epidemiology and environmental justice
-- 🫂 social epidemiology, social determinants of health and inequities
-- 💉 organization of primary healthcare (PHC) services
-- 🦟 epidemiology of communicable diseases
-- 🗺️ geospatial analysis for public health: territories, proximity and communities
+💧  environmental epidemiology and environmental justice <br>
+🫂  social epidemiology, social determinants of health and inequities <br>
+💉  organization of primary healthcare (PHC) services <br>
+🦟  epidemiology of communicable diseases <br>
+🗺️  geospatial analysis for public health: territories, proximity and communities <br>
 
 
-
+<br>
 I would like to professionally contribute to these fields through both scientific research and its practical translation, in the context of healthcare organization.
+<br><br><br>
+
+Powered by blast beats, questionable dad jokes, unsolicited nerdy anecdotes, eco-anxiety, and tons of coffee to feel the beat.
